@@ -759,3 +759,17 @@
 		{
 			color: #777;
 		}
+
+.icns {
+	margin-top: 50px;
+	text-align: center;
+	margin-right: 40px;
+}
+
+.icns a {
+	margin-right: 30px;
+}
+
+.icns a:first-child {
+	padding-left: 10px;
+}

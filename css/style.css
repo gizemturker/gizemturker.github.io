@@ -763,7 +763,7 @@
 .icns {
 	margin-top: 50px;
 	text-align: center;
-	margin-right: 40px;
+
 }
 
 .icns a {
@@ -773,3 +773,60 @@
 .icns a:first-child {
 	padding-left: 10px;
 }
+
+.link {
+	color: #000!important;
+	font-size: 20px;
+}
+
+.nav{
+	font-size: 26px;
+	text-decoration: none!important ;
+	color: #000;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.active {
+	color: #999999;
+}
+
+.articles {
+	margin-top: 100px;
+	margin-left: 15px;
+	text-align: left;
+}
+
+p{
+	font-size: 20px!important;
+	margin-bottom: 0.5em;
+}
+
+.project_image {
+	width: 160px;
+	height: auto;
+}
+
+
+.projects {
+	display: flex;
+	flex-direction: row;
+	margin-top: 100px;
+	justify-content: space-evenly;
+}
+
+.project {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	color: #000;
+}
+
+.project a {
+	color: #000;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
